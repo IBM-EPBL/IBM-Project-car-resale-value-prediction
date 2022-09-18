@@ -59,15 +59,25 @@ Step 2:
 
 To build Machine learning models you must require the following packages
 
-Sklearn: Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
+Sklearn: 
 
-NumPy: NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific computing, which contains a powerful n-dimensional array object  
+Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
 
-Pandas: pandas is a fast, powerful, flexible, and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.  
+NumPy: 
 
-Matplotlib: It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits
+NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific computing, which contains a powerful n-dimensional array object  
 
-Flask: Web framework used for building Web applications. 
+Pandas: 
+
+pandas is a fast, powerful, flexible, and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.  
+
+Matplotlib: 
+
+It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits
+
+Flask: 
+
+Web framework used for building Web applications. 
 
 If you are using anaconda navigator, follow the below steps to download the required packages:
 
