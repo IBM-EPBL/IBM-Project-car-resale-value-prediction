@@ -38,4 +38,41 @@ Download the dataset.
 
 4. Save the model and its dependencies.
 
-5.Build a Web application using Flask that integrates with the model built.
+5. Build a Web application using Flask that integrates with the model built.
+
+# Pre-Requisites
+In order to develop this project we need to install the following software/packages:
+
+
+Step 1:
+
+Anaconda Navigator :
+
+Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with great tools like JupyterLab, Jupyter Notebook, QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. 
+
+For this project, we will be using Jupyter notebook and Spyder
+
+Step 2:
+
+To build Machine learning models you must require the following packages
+
+Sklearn: Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
+
+NumPy: NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific computing, which contains a powerful n-dimensional array object  
+
+Pandas: pandas is a fast, powerful, flexible, and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.  
+
+Matplotlib: It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits
+
+Flask: Web framework used for building Web applications. 
+
+If you are using anaconda navigator, follow the below steps to download the required packages:
+
+Open anaconda prompt.
+Type “pip install numpy” and click enter.
+Type “pip install pandas” and click enter.
+Type “pip install matplotlib” and click enter.
+Type “pip install scikit-learn” and click enter.
+Type “pip install Flask” and click enter.
+
+If you are using Pycharm IDE, you can install the packages through the command prompt and follow the same syntax as above.
