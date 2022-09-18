@@ -21,7 +21,8 @@ Considering the main factors which would affect the resale value of a vehicle a 
 
 * To build web applications using the Flask framework.
 
-# Project Flow
+# Project Flow![image](https://user-images.githubusercontent.com/67733463/190892503-ca4fe7f3-8462-4140-8432-4346ea773bfc.png)
+
 
 
 * The user interacts with the UI (User Interface) to enter the input features
