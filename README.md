@@ -7,7 +7,8 @@ Thus, it is of commercial interest to sellers/financers to be able to predict th
 In order to predict the resale value of the car, we proposed an intelligent, flexible, and effective system that is based on using regression algorithms. 
 Considering the main factors which would affect the resale value of a vehicle a regression model is to be built that would give the nearest resale value of the vehicle. We will be using various regression algorithms and algorithm with the best accuracy will be taken as a solution, then it will be integrated to the web-based application where the user is notified with the status of his product.
 
-# Technical Architecture
+# Technical Architecture <img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
+
 ![image](https://user-images.githubusercontent.com/67733463/190889435-b2fd85ff-d147-4650-baa6-4f6f2532b5c3.png)
 
 # Project Objectives
