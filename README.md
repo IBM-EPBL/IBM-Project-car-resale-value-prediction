@@ -1,4 +1,4 @@
-# Car Resale Value Prediction
+# Car Resale Value Prediction  <img src="https://giphy.com/stickers/car-toycar-littlecar-kJxMsuricsWHen10r8" width="30px">
 
 With difficult economic conditions, it is likely that sales of second-hand imported (reconditioned) cars and used cars will increase. 
 In many developed countries, it is common to lease a car rather than buying it outright. After the lease period is over, the buyer has the possibility to buy the car at its residual value, i.e. its expected resale value. 
