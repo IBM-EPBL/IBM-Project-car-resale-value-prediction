@@ -1,4 +1,4 @@
-# Car Resale Value Prediction  <img src="https://media.giphy.com/media/XAaKkXYRd7858X8G7I/giphy.gif" width="60px">
+# Car Resale Value Prediction  <img src="https://media.giphy.com/media/XAaKkXYRd7858X8G7I/giphy.gif" width="120px">
 
 With difficult economic conditions, it is likely that sales of second-hand imported (reconditioned) cars and used cars will increase. 
 In many developed countries, it is common to lease a car rather than buying it outright. After the lease period is over, the buyer has the possibility to buy the car at its residual value, i.e. its expected resale value. 
@@ -11,7 +11,7 @@ Considering the main factors which would affect the resale value of a vehicle a 
 
 ![image](https://user-images.githubusercontent.com/67733463/190889435-b2fd85ff-d147-4650-baa6-4f6f2532b5c3.png)
 
-# Project Objectives
+# Project Objectives<img src="https://media.giphy.com/media/U1anBXfZ4wmKoGsIMG/giphy.gif" width="40px">
 * To understand the problem to classify if it is a regression or a classification kind of problem.
 
 * To know how to pre-process/clean the data using different data pre-processing techniques.
@@ -44,7 +44,7 @@ Download the dataset.
 
 5. Build a Web application using Flask that integrates with the model built.
 
-# Pre-Requisites
+# Pre-Requisites <img src="https://media.giphy.com/media/mFjYHowKIQxRoGVSJy/giphy.gif" width="80px">
 In order to develop this project we need to install the following software/packages:
 
 
